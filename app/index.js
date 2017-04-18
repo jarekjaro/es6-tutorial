@@ -1,5 +1,3 @@
-function butter(...a) {
-  return a;
-}
-
-console.log(butter(1, 2, 3));
+const array = [1,2];
+array.push(4);
+console.log(array);
